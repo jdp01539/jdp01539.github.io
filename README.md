@@ -7,3 +7,6 @@ Errors detected by Validator:
     
 *footer undefined
     Says element is not defined; when removed, the footer functionality disappears.
+    
+*pictures.html
+    One image does not load through github, but does elsewhere.
